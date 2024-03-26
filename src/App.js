@@ -7,6 +7,7 @@ function App() {
                 <div className='App'>
                     <h1> Hello React!</h1>
                     <p>It is my First React project</p>
+                    <p>II wil practise React project</p>
                 </div>
                 <a
                     className="App-link"
