@@ -6,8 +6,8 @@ function App() {
             <header className="App-header">
                 <div className='App'>
                     <h1> Hello React!</h1>
-                    <p>It is my First React project</p>
-                    <p>II wil practise React project</p>
+                    <p>It is my First React project.</p>
+                    <p>I wil practise React in Application.</p>
                 </div>
                 <a
                     className="App-link"
@@ -17,6 +17,11 @@ function App() {
                 >
                     Learn React
                 </a>
+                <ul>
+                    <li>Apples</li>
+                    <li>Bananas</li>
+                    <li>Cherries</li>
+                </ul>
             </header>
         </div>
     );
